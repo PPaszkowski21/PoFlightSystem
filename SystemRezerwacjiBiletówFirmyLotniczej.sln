@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemRezerwacjiBiletówFirmyLotniczej", "SystemRezerwacjiBiletówFirmyLotniczej\SystemRezerwacjiBiletówFirmyLotniczej.csproj", "{27E802AF-99B2-4A93-AD84-0ADC67D65D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJednostkowyProjekt", "TestJednostkowyProjekt\TestJednostkowyProjekt.csproj", "{B2C138FD-D850-4515-8A83-B725F5417674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E802AF-99B2-4A93-AD84-0ADC67D65D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E802AF-99B2-4A93-AD84-0ADC67D65D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E802AF-99B2-4A93-AD84-0ADC67D65D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E802AF-99B2-4A93-AD84-0ADC67D65D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C138FD-D850-4515-8A83-B725F5417674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C138FD-D850-4515-8A83-B725F5417674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C138FD-D850-4515-8A83-B725F5417674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C138FD-D850-4515-8A83-B725F5417674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404D8720-D5F5-46B0-B7A1-0FA07E81489E}
+	EndGlobalSection
+EndGlobal
